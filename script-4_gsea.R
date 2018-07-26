@@ -185,7 +185,6 @@ kegg <- msig[ msig$MODULES$Subcategory == "CP:REACTOME" ]  # You can replace `RE
 
 res <- tmodLimmaTest(fit2, fit2$genes$GENE_SYMBOL, mset=kegg)
 
-# Something we added to the script
 hallmark <- msig[ msig$MODULES$Category == "H" ]
 hallmark$MODULES$Title <- gsub("Hallmark", "", hallmark$MODULES$Title)
 res <- tmodLimmaTest(fit2, fit2$genes$GENE_SYMBOL, mset=hallmark)
