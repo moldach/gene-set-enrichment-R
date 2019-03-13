@@ -1,7 +1,6 @@
 # Gene set enrichment in R
 
-[![License:
-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/moldach/gene-set-enrichment-R/blob/master/LICENSE.md)
+[![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/moldach/gene-set-enrichment-R/blob/master/LICENSE.md)
 
 ### Contact information
 ***
