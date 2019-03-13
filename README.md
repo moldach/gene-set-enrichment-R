@@ -33,4 +33,4 @@ This code is released under the MIT License - see the [LICENSE.md](LICENSE.md) f
 ## Acknowledgments
 
 * This is material developed by [Dr. January Weiner](https://www.physalia-courses.org/instructors/t14/) from Max Planck Institute for Infection Biology, GER
-* The material herein was covered at the 5 day workshop in Berlin held by [Physalia Courses](https://www.physalia-courses.org/)
+* The material herein was covered at the 5 day workshop in Berlin March 12-16 2018, **Squeezing biology out of statistics: Gene set and pathway analysis in HT data**  held by [Physalia Courses](https://www.physalia-courses.org/)
