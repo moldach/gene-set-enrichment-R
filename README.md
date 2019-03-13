@@ -1,4 +1,4 @@
-# gene-set-enrichment-R
+# Gene set enrichment in R
 
 ### Contact information
 ***
@@ -17,8 +17,18 @@ This repo covers techniques for the analysis of gene set enrichments, pathway an
 These scripts cover statistical problems and solutions in functional analysis of high-throughput data and gives an overview of commonly used functional analysis techniques (GSEA, gene ontologies, MSigDB, tmod, metabolic profiling) as well as multivariate techniques and machine learning.
 
 This repo has several sections
-+ Data preparation 
++ Data preparation
+(TO DO: COVER IN MORE DETAIL)
 
-# Licence
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Licence
 ***
-This code is released under the [MIT License](https://lmullen.mit-license.org/). The code from runall script is from [macmanes-lab/Oyster_River_Protocol](https://github.com/macmanes-lab/Oyster_River_Protocol) which is used under the terms of its own [license](https://github.com/macmanes-lab/Oyster_River_Protocol).
+This code is released under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+* This is material developed by [Dr. January Weiner](https://www.physalia-courses.org/instructors/t14/) from Max Planck Institute for Infection Biology, GER
+* The material herein was covered at the 5 day workshop in Berlin held by [Physalia Courses](https://www.physalia-courses.org/)
