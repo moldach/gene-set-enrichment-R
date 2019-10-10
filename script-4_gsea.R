@@ -42,7 +42,7 @@ fit2 <- eBayes(contrasts.fit(fit2, c))
 ## GO analysis with topGO from limma
 res <- goana(fit2, geneid=En$genes$EntrezID, coef="TBvsNID")
 restable <- topGO(res, ontology="BP")
-View(restable)
+# View(restable)
 
 ## similar analysis can be done for KEGG pathways
 res <- kegga(fit2, geneid=En$genes$EntrezID, coef="TBvsNID")
