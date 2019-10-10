@@ -25,7 +25,7 @@ a <- listAttributes(mart)
 
 
 ## we match the existing REFSEQ ids to the mrna refseq
-d <- getBM(attributes=c("entrezgene", "description", "refseq_mrna"), filters="refseq_mrna", mart=mart, values=E$genes$REFSEQ)
+d <- getBM(attributes=c("entrezgene_id", "description", "refseq_mrna"), filters="refseq_mrna", mart=mart, values=E$genes$REFSEQ)
 En$genes$EntrezID <- d$entrezgene[ match(En$genes$REFSEQ, d$refseq_mrna) ]
 
 # At this stage you could remove all those without an Entrez id and then re-run the differential expression analysis - this is not done here but you should
