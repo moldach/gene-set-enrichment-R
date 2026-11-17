@@ -8,7 +8,7 @@ Matthew J. Oldach
 
 + E-mail: moldach686@gmail.com
 + Twitter: [@MattOldach](https://twitter.com/MattOldach)
-+ Website: [https://moldach.github.io/](https://moldach.github.io/)
++ Website: [https://matthewoldach.com/](https://matthewoldach.com/)
 
 ## Motivation
 
